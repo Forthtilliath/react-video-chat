@@ -24,6 +24,10 @@ J'avais découvert les contextes lors du projet MERN pour faire un réseau socia
 
 Toutefois, l'utilisation ici est bien plus poussée. L'ensemble du context est géré directement dans le fichier ``Context.js``, ce qui simplifie sont utilisatinos dans les fichiers adjacents.
 
+## Mise en ligne
+
+Un gros plus à cette vidéo, elle montre comment mettre en ligne l'application via Heroku et Netlify. 
+
 # Conclusion
 
 Ce fût un projet rapidement, mais qui m'a d'une part permis de faire un rappel sur des éléments que j'avais découvert lors d'un projet précédent, et d'autre part m'a permis de découvrir les sockets, élément utile dès le moment où l'on souhaite faire communiquer des données entre plusieurs utilisateurs sans avoir besoin de les stocker sur un serveur.
