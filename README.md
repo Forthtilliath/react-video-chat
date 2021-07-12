@@ -28,6 +28,16 @@ Toutefois, l'utilisation ici est bien plus poussée. L'ensemble du context est g
 
 Un gros plus à cette vidéo, elle montre comment mettre en ligne l'application via Heroku et Netlify. 
 
+# Amélioration possible
+
+## Afficher les personnes connectées
+
+Afin de simplifier les communications, il sera bien de voir toutes les personnes connectées au site et via un simple clic, pouvoir lancer un appel.
+
+## Ajouter un historique
+
+Il serait possible, via une base de données, d'enregistrer les appels passés, avec la durée de celui-ci, à la manière d'un historique d'appel d'un téléphone.
+
 # Conclusion
 
 Ce fût un projet rapidement, mais qui m'a d'une part permis de faire un rappel sur des éléments que j'avais découvert lors d'un projet précédent, et d'autre part m'a permis de découvrir les sockets, élément utile dès le moment où l'on souhaite faire communiquer des données entre plusieurs utilisateurs sans avoir besoin de les stocker sur un serveur.
